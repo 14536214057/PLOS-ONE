@@ -1,0 +1,79 @@
+{
+  "title": "Data repository for integrated network toxicology and single-cell transcriptomic analyses linking nitrofurantoin to IPF-related epithelial remodeling",
+  "upload_type": "dataset",
+  "description": "Data files, analysis outputs, and scripts supporting a study integrating network toxicology, bulk transcriptomics, single-cell transcriptomics, and molecular simulation to investigate MMP13 as a candidate molecular link between nitrofurantoin and IPF-related epithelial remodeling.",
+  "creators": [
+    {
+      "name": "Yu, Jinxiang"
+    },
+    {
+      "name": "Feng, Xiaochuan"
+    },
+    {
+      "name": "Wang, Lilei"
+    },
+    {
+      "name": "Zhang, Haikun"
+    },
+    {
+      "name": "Jia, Lifeng"
+    },
+    {
+      "name": "Ma, Pengcheng"
+    },
+    {
+      "name": "Cao, Le"
+    },
+    {
+      "name": "Zhang, Nianliang"
+    },
+    {
+      "name": "Zhao, Tao"
+    }
+  ],
+  "keywords": [
+    "nitrofurantoin",
+    "idiopathic pulmonary fibrosis",
+    "MMP13",
+    "transcriptomics",
+    "single-cell RNA-seq",
+    "network toxicology",
+    "machine learning"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10667",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35145",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24206",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53845",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128033",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.rcsb.org/structure/5B5P",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}
+

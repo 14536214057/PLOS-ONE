@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the original public datasets."
+title: "Data repository for integrated network toxicology and single-cell transcriptomic analyses linking nitrofurantoin to IPF-related epithelial remodeling"
+type: dataset
+authors:
+  - family-names: Yu
+    given-names: Jinxiang
+  - family-names: Feng
+    given-names: Xiaochuan
+  - family-names: Wang
+    given-names: Lilei
+  - family-names: Zhang
+    given-names: Haikun
+  - family-names: Jia
+    given-names: Lifeng
+  - family-names: Ma
+    given-names: Pengcheng
+  - family-names: Cao
+    given-names: Le
+  - family-names: Zhang
+    given-names: Nianliang
+  - family-names: Zhao
+    given-names: Tao
+repository-code: "https://github.com/14536214057/PLOS-ONE"
+abstract: "Data files, analysis outputs, and scripts supporting a study integrating network toxicology, bulk transcriptomics, single-cell transcriptomics, and molecular simulation to investigate MMP13 as a candidate molecular link between nitrofurantoin and IPF-related epithelial remodeling."
+keywords:
+  - nitrofurantoin
+  - idiopathic pulmonary fibrosis
+  - MMP13
+  - transcriptomics
+  - single-cell RNA-seq
+  - network toxicology
+  - machine learning
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-07-15"
+
