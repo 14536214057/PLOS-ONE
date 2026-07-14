@@ -1,0 +1,2 @@
+"Cohort","Threshold_Method","Train_Threshold","Train_Sensitivity_at_Threshold","Train_Specificity_at_Threshold"
+"GSE24206","youden",0.452512515803028,0.971428571428571,0.894736842105263
